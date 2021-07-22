@@ -5,7 +5,7 @@
 
 
  let countDown = () => {
-   let futureDate = new Date("July 14, 2021 21:00:00 GMT+0530") .getTime() ;
+   let futureDate = new Date("July 23, 2021 18:00:00 GMT+0530") .getTime() ;
    let currentDate = new Date();
    let myDate = futureDate - currentDate;
    //console.log(myDate);
